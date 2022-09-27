@@ -5,11 +5,11 @@ Json configuration file for CEN assay CNV variant annotation using VEP.
 
 Configuration file required to annotate a vcf using [Variant Effect Predictor](https://github.com/Ensembl/ensembl-vep) implementation [eggd_vep](https://github.com/eastgenomics/eggd_vep).
 
-A variable level of annotation can be achieved by different combinations of custom annotation , vep plugins in addition to the required VEP resources.
+A variable level of annotation can be achieved by different combinations of custom annotation, vep plugins in addition to the required VEP resources.
 
 ## What does this config version contain?
 
-This json file provides information about annotations,plugins, required fields and the genome version.
+This json file provides information about annotations, plugins, required fields and the genome version.
 
 * Genome build: GRCh37
 * VEP required files:
