@@ -2,7 +2,7 @@
     "config_information":{
         "genome_build": "GRCh37",
         "assay":"CEN-CNV",
-        "config_version": "1.0.0"
+        "config_version": "1.1.0"
     },
         "vep_resources":{
         "vep_docker":"project-Fkb6Gkj433GVVvj73J7x8KbV:file-G8V2Vz0433Gp5bYPF2f6vg9X",
