@@ -1,0 +1,31 @@
+ {
+    "config_information":{
+        "genome_build": "GRCh38",
+        "assay":"CEN-CNV",
+        "config_version": "1.0.0"
+    },
+        "vep_resources":{
+        "vep_docker":"file-GQ7Z9y84xyx28bzFGx5jkxkG",
+        "plugin_config":"file-GQ7Yzz04XB7q1vZyY9pQGyjp",
+        "vep_cache":"file-GQ7Yqpj4qpBvpby694GgX92x",
+        "reference_fasta":"file-G61y95Q433Gk05zyFKF9kFv2",
+        "reference_fai":"file-G61yBV8433GjbVj022PyV3K5",
+        "reference_gzi":"file-G61yBf0433Gp4BBVGj0jxqvP",
+        "ref_bcftools":"file-Gb772VQ4XGyzQ0Zk615XbZ0X"
+    },
+    "custom_annotations": [
+    ],
+    "plugins": [
+    ],
+    "additional_fields":[
+        "Allele",
+        "SYMBOL",
+        "VARIANT_CLASS",
+        "Consequence",
+        "IMPACT",
+        "EXON",
+        "INTRON",
+        "Feature",
+        "STRAND"
+    ]
+  }
