@@ -11,7 +11,7 @@ A variable level of annotation can be achieved by different combinations of cust
 ## What does this config version contain?
 
 This config repo contains two json files for the genome builds GRCh38 and GRCh37.
-These json files provides information about annotations, plugins, required fields and the genome version.
+These json files provide information about annotations, plugins, required fields and the genome version.
 
 | Key | GRCh37 | GRCh38 |
 |--------------|--------------|--------------|
